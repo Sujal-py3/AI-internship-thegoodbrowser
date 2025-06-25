@@ -121,7 +121,7 @@ alfred-internship-report/
 
 ---
 ## 🤝 Let’s Connect
-👋 I'm Sujal Singh, a 3rd-year CS undergrad at Bennett University, specializing in AI/ML.  
+👋 I'm Sujal Singh, a final year CS undergrad at Bennett University, specializing in AI/ML.  
 I love building things that think, plan, and speak like humans.
 
 📫 [sujal3177@gmail.com](mailto:sujal3177@gmail.com)   
