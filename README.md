@@ -83,8 +83,8 @@ Alfred: ✅ Your email has been sent!
 - Session memory & JSON-based planning logic
 
 
-
-```<pre> --- ## 📁 Folder Structure (Report-Style) <code> alfred-internship-report/ ├── assets/ │ ├── Alfred_Architecture.jpg # System architecture diagram │ ├── demo_chat.png # WhatsApp integration demo ├── README.md # Project overview and contributions ├── overview.pdf # Optional internship report (PDF) </code> </pre>```
+---
+``` ## 📁 Folder Structure (Report-Style) <code> alfred-internship-report/ ├── assets/ │ ├── Alfred_Architecture.jpg # System architecture diagram │ ├── demo_chat.png # WhatsApp integration demo ├── README.md # Project overview and contributions ├── overview.pdf # Optional internship report (PDF)```
 
 ---
 
