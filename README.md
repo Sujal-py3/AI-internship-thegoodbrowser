@@ -71,6 +71,11 @@ Alfred: ✅ Your email has been sent!
 ![Architecture](Architecture.jpg)
 
 ---
+#### 📸 Demo Snapshots
+
+![Demo 1](./demo1.png)
+![Demo 2](./demo2.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -88,9 +93,9 @@ Alfred: ✅ Your email has been sent!
 
 
 alfred-internship-report/
-├── assets/
-│ ├── Alfred_Architecture.jpg # System architecture diagram
-│ ├── demo_chat.png # WhatsApp integration demo
+├── Alfred_Architecture.jpg # System architecture diagram
+├── demo1.png
+├──demo2.png # WhatsApp integration demo
 ├── README.md # Project overview and contributions
 ├── overview.pdf # internship report (PDF)
 
