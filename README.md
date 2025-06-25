@@ -86,13 +86,15 @@ Alfred: ✅ Your email has been sent!
 ---
 ## 📁 Folder Structure (Report-Style)
 
+
 alfred-internship-report/
 ├── assets/
 │ ├── Alfred_Architecture.jpg # System architecture diagram
 │ ├── demo_chat.png # WhatsApp integration demo
 ├── README.md # Project overview and contributions
 ├── overview.pdf # Optional internship report (PDF)
----
+
+----
 
 ## 🏁 Outcomes
 - Delivered a working prototype used for internal automation testing  
