@@ -83,7 +83,7 @@ Alfred: ✅ Your email has been sent!
 - Session memory & JSON-based planning logic
 
 
----
+```
 ## 📁 Folder Structure (Report-Style)
 
 
@@ -92,10 +92,9 @@ alfred-internship-report/
 │ ├── Alfred_Architecture.jpg # System architecture diagram
 │ ├── demo_chat.png # WhatsApp integration demo
 ├── README.md # Project overview and contributions
-├── overview.pdf # Optional internship report (PDF)
+├── overview.pdf # internship report (PDF)
 
----
-
+```
 ## 🏁 Outcomes
 - Delivered a working prototype used for internal automation testing  
 - Helped scale WhatsApp interactions to handle >200 daily commands  
