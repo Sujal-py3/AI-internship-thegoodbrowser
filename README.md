@@ -94,7 +94,7 @@ alfred-internship-report/
 ├── README.md # Project overview and contributions
 ├── overview.pdf # Optional internship report (PDF)
 
-----
+---
 
 ## 🏁 Outcomes
 - Delivered a working prototype used for internal automation testing  
