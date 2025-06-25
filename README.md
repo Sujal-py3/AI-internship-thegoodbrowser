@@ -1,5 +1,11 @@
 # 🧠 Alfred: AI-Powered Email & Calendar Assistant  
 *Internship Project @ theGoodBrowser*
+![LLM-Powered](https://img.shields.io/badge/LLM-Powered-purple)  
+![Twilio](https://img.shields.io/badge/WhatsApp%20Twilio-integrated-brightgreen)  
+![LangChain](https://img.shields.io/badge/LangChain-RAG-blue)  
+![Playwright](https://img.shields.io/badge/Playwright-browser--automation-yellowgreen)  
+![OpenAI](https://img.shields.io/badge/OpenAI-AutoDrafting-red)
+
 
 ## 🚀 About the Project
 
@@ -23,9 +29,22 @@ I designed and implemented Alfred's **conversational interface over WhatsApp** u
 - Typing indicators and emoji-enhanced UX
 
 #### Sample Flow:
-User: Remind me to review notes at 6pm
+User: Hey Alfred, help me mail my professor I’ll be late.
 
-Alfred: ✅ Noted! I’ll remind you at 6:00 PM today.
+Alfred: Of course. What’s their email address?
+
+User: prof.ram@university.edu
+
+Alfred: Here’s a draft:
+Subject: Late Arrival Notification
+Body: Dear Professor Ram, I hope this message finds you well. I wanted to inform you that I’ll be arriving late due to unavoidable circumstances...
+
+Would you like me to send it?
+
+User: Yes.
+
+Alfred: ✅ Your email has been sent!
+
 
 
 ---
@@ -66,13 +85,13 @@ Alfred: ✅ Noted! I’ll remind you at 6:00 PM today.
 ---
 
 ## 📁 Folder Structure (Report-Style)
-This repo serves as a **project showcase**, not a full codebase.
-📂 alfred-internship-report
-┣ 📁 assets/
-┃ ┣ Alfred_Architecture.jpg
-┃ ┣ demo_chat.png
-┣ 📄 README.md
-┣ 📄 overview.pdf ← optional final report (you can add)
+alfred-internship-report/
+├── assets/
+│   ├── Alfred_Architecture.jpg   # System architecture diagram
+│   ├── demo_chat.png             # WhatsApp integration demo
+├── README.md                     # Project overview and  contributions
+├── overview.pdf                 
+
 
 
 ---
@@ -90,13 +109,18 @@ This repo serves as a **project showcase**, not a full codebase.
 - 🤖 Personalized style generation (Batman’s Alfred voice!)
 
 ---
+## 🛡️ Disclaimer
+> 🔒 This repository does **not** contain the full production source code due to IP and privacy constraints.
+>  
+> For more details or a private walkthrough, feel free to connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sujal-singh-413264252/)
 
+
+---
 ## 🤝 Let’s Connect
 👋 I'm Sujal Singh, a 3rd-year CS undergrad at Bennett University, specializing in AI/ML.  
 I love building things that think, plan, and speak like humans.
 
-📫 [sujal3177@gmail.com](mailto:sujal3177@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/sujal-singh-413264252/)  
+📫 [sujal3177@gmail.com](mailto:sujal3177@gmail.com)   
 💻 [GitHub](https://github.com/Sujal-py3)
 
 ---
